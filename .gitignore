@@ -75,5 +75,7 @@ DerivedDataCache/*
 
 *.idea
 
-Content/ExampleContent/*
+Content/ExampleContent/
+Content/ParagonMinions/
+Content/ParagonGideon/
 ThirdParty/
